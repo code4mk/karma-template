@@ -1,6 +1,6 @@
 # karma-template
 
-* [Karma Jasmine](https://github.com/code4mk/karma-template/tree/karma-mocha)
+* [Karma Mocha + chai](https://github.com/code4mk/karma-template/tree/karma-mocha)
 
 ---
 
