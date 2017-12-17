@@ -6,7 +6,7 @@
 
 Karma template + mocha + chai JS  Unit Testing
 
-`mocha + chai`
+`jasmine`
 
 ```base
 # clone
